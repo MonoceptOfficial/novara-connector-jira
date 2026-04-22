@@ -38,7 +38,7 @@ public class JiraConnector : ConnectorBase
     {
         Id = "connector.jira",
         Name = "Jira",
-        Version = "2026.4.22.1",
+        Version = BuildProvenance.ReadVersion(typeof(JiraConnector).Assembly),
         Author = "Monocept",
         Description = "Atlassian Jira integration — issue, comment, and sprint webhooks. Bidirectional sync with the Issues and Roadmap modules.",
         Icon = "jira",
