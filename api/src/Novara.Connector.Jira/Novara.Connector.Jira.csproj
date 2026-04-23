@@ -4,7 +4,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>Novara.Connector.Jira</PackageId>
-    <Version>26.4.223</Version>
+    <Version>26.4.230</Version>
     <Authors>Monocept</Authors>
     <Company>Monocept</Company>
     <Description>Jira connector for Novara — issue + sprint webhooks and bidirectional sync with the Issues + Roadmap modules.</Description>
